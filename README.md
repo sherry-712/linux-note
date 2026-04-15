@@ -24,3 +24,12 @@ My Linux learning notes from March 2026
 - [Day 5: 日志查看](week3/day5-log.md)
 - [Day 6: 网络排查](week3/day6-network-check.md)
 - [Day 7: 复习+脚本加强](week3/day7-script-review.md)
+
+### 📅 第4周
+- [Day 1: 部署静态网站](week4/day1-static-website.md)
+- [Day 2: 排错训练](week4/day2-troubleshoot.md)
+- [Day 3: 50个常用命令默写](week4/day3-commands-review.md)
+- [Day 4: Flask项目部署](week4/day4-flask.md)
+- [Day 5: 环境备份](week4/day5-backup.md)
+- [Day 6: Linux月考](week4/day6-exam.md)
+- [Day 7: 3月总结](week4/day7-summary.md)
